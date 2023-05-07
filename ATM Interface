@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class AtmInterface {
+class BankAccount {
 	
 	String name;
 	String userName;
@@ -152,7 +152,7 @@ class AtmInterface {
 }
 
 
-public class AtmInterface {
+public class BankingSystem {
 	
 	
 	public static int takeIntegerInput(int limit) {
